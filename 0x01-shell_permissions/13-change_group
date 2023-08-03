@@ -1,2 +1,2 @@
 #!/bin/bash
-task 13.  chgrp school hello
+chgrp school hello
